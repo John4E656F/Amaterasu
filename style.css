@@ -10,3 +10,19 @@
     .navbar>.container-fluid .navbar-brand-centered {
     margin-left: -80px;
     }
+ 
+
+  @media (min-width: 992px) {
+     img{
+        max-width:100%;
+        max-height:100%;
+      }
+      .jumbotron .hero{
+          height: 100vh;
+      }
+      .carousel-item{
+        height: 70vh;
+        overflow: hidden;
+      }
+  }
+  
