@@ -12,17 +12,18 @@
     }
     .map-responsive{
         overflow:hidden;
-        padding-bottom:50%;
+        /* padding-bottom:50%; */
         position:relative;
-        height:0;
+        height: 300px;
     }
     .map-responsive iframe{
-        left:0;
-        top:0;
         height:100%;
         width:100%;
-        position:absolute;
+        /* position:absolute; */
     }
+    .card-columns {
+      column-count: 3;
+  }
 
  
 
@@ -38,18 +39,15 @@
         height: 70vh;
         overflow: hidden;
       }
-      /* .map-responsive{
+      .map-responsive{
         overflow:hidden;
-        padding-bottom:50%;
         position:relative;
-        height:0;
+        height: 500px;
     }
     .map-responsive iframe{
-        left:0;
-        top:0;
-        height:100%;
-        width:100%;
-        position:absolute;
-    } */
+        width:70%;
+        
+
+    }
   }
   
