@@ -1,5 +1,7 @@
 # Oishii Ramen Shop
 
+[Github Page](https://john4e656f.github.io/Amaterasu/)
+
 ## Restaurant Project Built with Bootstrap
 
 Type of challenge: consolidation
