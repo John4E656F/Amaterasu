@@ -39,6 +39,11 @@
     border-color: rgba(202, 45, 45, 0.329);
   }
 
+  .carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+  }
+
 
  
 
