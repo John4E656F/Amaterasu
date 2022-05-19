@@ -17,3 +17,10 @@ Total Numbers of Pages: 6
 - Gallery (3 pages with 3 pictures each)
 - Contact Us (Simple Contact Form with dropdown selector for the "Subject")
 - About Us
+
+# Problems and how i solve them
+Problem: Image link using /assets/image.png! With this method github page have problem showing the image.
+Solution: use the img url from the github repo!
+
+Problem: nav link linking, example: /pages/menu.html, when click to another link it become this : /pages/pages/gallery.html or /pages/index.html (index is not in the pages folder)
+Solution: use github url of each pages. ex: john4e656f.github.io/index.html instead of /folder/htmlfile/ 
