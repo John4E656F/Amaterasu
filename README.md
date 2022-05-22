@@ -1,6 +1,6 @@
 # Oishii Ramen Shop
 
-[Github Page](https://john4e656f.github.io/restaurant-css-framework/)
+[Github Page](https://john4e656f.github.io/Amaterasu/)
 
 ## Restaurant Project Built with Bootstrap
 
@@ -26,3 +26,5 @@ Solution: use the img url from the github repo!
 
 Problem: nav link linking, example: /pages/menu.html, when click to another link it become this : /pages/pages/gallery.html or /pages/index.html (index is not in the pages folder)
 Solution: use github url of each pages. ex: john4e656f.github.io/index.html instead of /folder/htmlfile/ 
+
+Solution for Page linking. Use local link and just add a class active to the active page.
