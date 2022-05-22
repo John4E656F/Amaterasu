@@ -1,6 +1,6 @@
 # Oishii Ramen Shop
 
-[Github Page](https://john4e656f.github.io/Amaterasu/)
+[Github Page](https://john4e656f.github.io/restaurant-css-framework/)
 
 ## Restaurant Project Built with Bootstrap
 
